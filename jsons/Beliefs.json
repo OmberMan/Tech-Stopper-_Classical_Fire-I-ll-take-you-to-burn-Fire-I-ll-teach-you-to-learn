@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Religious Art",
+        "type": "Follower",
+        "uniques": ["[+8 Culture] from every [National Epic]", "[+1 Faith] from every [Landmark]"]
+    },
+    {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[-15]% Unhappiness from [Followers of this Religion] [in all cities] <in cities with a [Shrine]>", "[10]% Food is carried over after population increases [in all cities] <in cities with at least [2] [Followers of this Religion]>"]
+    },
+    {
+        "name": "Peace Gardens",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness, +1 Faith] from every [Garden] <when not at war>"]
+    },
+    {
+        "name": "Liturgical Drama",
+        "type": "Follower",
+        "uniques": ["[+2 Faith, +1 Culture] from every [Amphitheater] <in cities with at least [2] [Followers of this Religion]>", "[+20 Faith] whenever a Great Person is expended"]
+    },
+]
